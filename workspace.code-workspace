@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../DS"
+		},
+		{
+			"path": "../CNM"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"9binterpolation": "c"
+		}
+	}
+}
